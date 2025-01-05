@@ -7,7 +7,7 @@
 - 📊 Economista y analista de datos con experiencia en ciencia de datos.
 - 🌱 Actualmente estoy aprendiendo más sobre técnicas avanzadas de análisis de datos y machine learning.
 - 🛠️ Habilidades: Python, SQL Server, Power BI, Excel.
-- 💼 Perfil de LinkedIn: [Héctor Gelvez](https://www.linkedin.com/in/hgelvez)
+- 💼 Perfil de LinkedIn: [Heyson Gelvez](https://www.linkedin.com/in/hgelvez)
 - 📫 Cómo contactarme: [jhgelvez@hotmail.com](mailto:jhgelvez@hotmail.com)
 
 ## Habilidades
